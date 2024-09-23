@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="a7O72qsrw4FxwAjXGVWw">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="41" y="40" width="815" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rhYw6mh2DUqo9tb4ULvt-22" source="rhYw6mh2DUqo9tb4ULvt-2" target="rhYw6mh2DUqo9tb4ULvt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rhYw6mh2DUqo9tb4ULvt-22" source="rhYw6mh2DUqo9tb4ULvt-2" target="rhYw6mh2DUqo9tb4ULvt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-2" value="Template (Base) App" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rhYw6mh2DUqo9tb4ULvt-22" source="rhYw6mh2DUqo9tb4ULvt-4" target="rhYw6mh2DUqo9tb4ULvt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-4" value="Implementation (Forked) Apps" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-5" value="Custom Android Libraries" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="435" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rhYw6mh2DUqo9tb4ULvt-22" source="rhYw6mh2DUqo9tb4ULvt-2" target="rhYw6mh2DUqo9tb4ULvt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-7" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="130" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-8" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="330" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-9" value="&lt;h1&gt;Disclaimer&lt;/h1&gt;&lt;p&gt;This diagram isn&#39;t necessarily an I/O diagram, as I/O doesn&#39;t apply directly to the project. Or rather, it only applies on a very specific project-by-project basis, not to the template app architecture at large. Thus, these design diagrams focus more on inheritance &amp;amp; implementation instead of a direct I/O.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="113" width="295" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-10" value="External Open Source Libraries" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="435" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-12" value="Generic PE Libraries" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="435" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-14" value="These will be generic libraries, created by me, which are generic &amp;amp; platform-agnostic (embedded, desktop, mobile, etc.)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="565" y="160" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-17" value="These will be custom Android libraries, created by me, which contain all of the internals for the architecture. Bluetooth &amp;amp; REST components, widgets, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="565" y="240" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-18" value="These will be external, open source libraries, which are used for various things throughout the app architecture." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="565" y="320" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-19" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="330" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-20" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry x="330" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhYw6mh2DUqo9tb4ULvt-21" value="Individual projects will be GitHub/Bitbucket forked repositories of the Template App. They will then override much of the configuration information necessary for the app. All project-specific information exists here as well. This includes information about the type of module being connected to, widgets populated, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhYw6mh2DUqo9tb4ULvt-22">
+          <mxGeometry y="320" width="239" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

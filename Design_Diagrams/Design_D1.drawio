@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-09-23T01:01:37.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="o2a2al-LUPj323HW3cIl" version="21.6.6" type="device">
+  <diagram name="Page-1" id="3uGVNlkE-p-UXVhUMRqV">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-gulCeFssi-1lcxqsimK-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="190" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-1" value="Template App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-gulCeFssi-1lcxqsimK-10" source="-gulCeFssi-1lcxqsimK-2" target="-gulCeFssi-1lcxqsimK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-2" value="Implementation (Forked) App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-4" value="Modular Libraries" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-gulCeFssi-1lcxqsimK-10" source="-gulCeFssi-1lcxqsimK-1" target="-gulCeFssi-1lcxqsimK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-6" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry x="130" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-7" value="Inheritance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry x="330" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gulCeFssi-1lcxqsimK-9" value="&lt;h1&gt;Disclaimer&lt;/h1&gt;&lt;p&gt;This diagram isn&#39;t necessarily an I/O diagram, as I/O doesn&#39;t apply directly to the project. Or rather, it only applies on a very specific project-by-project basis, not to the template app architecture at large. Thus, these design diagrams focus more on inheritance &amp;amp; implementation instead of a direct I/O.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="-gulCeFssi-1lcxqsimK-10">
+          <mxGeometry x="112.5" width="295" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
