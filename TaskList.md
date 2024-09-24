@@ -30,25 +30,25 @@ The project is thoroughly designed and thought through before any code is writte
 ### Development
 Design is broken into a couple stages, due to the compartmentalized nature of the architecture.
 
-##### UI
+#### UI
 Building the UI & 'Demo Mode' so that a *sample* of the app can be shown to possible customers.
 - Implement the various screens & widgets outlined in the UI specification document.
 - Implement a 'Demo Mode' which samples the app, including sample data from the Pub Sub.
 - Implement the theming structure for the app & widgets outlined in the UI specification document.
 
-##### PE Pub Sub
+#### PE Pub Sub
 The PE Pub Sub is a universal, generic, & modular way of publishing/subscribing to events throughout the app. This mechanism is used for triggering various events in the app, updating data displayed, changing the app state, and more.
 - Implement the PE Pub Sub library externally.
 - Create a test suite to ensure consistency & accuracy in the PE Pub Sub library.
 - Migrate the PE Pub Sub library into the app architecture itself and implement the necessary functionality.
 
-##### Bluetooth Low Energy (BLE)
+#### Bluetooth Low Energy (BLE)
 PE uses a proprietary bluetooth standard—outlined in the communications protocol specification and with parser(s) living in the communications library—to handled all of our communications over bluetooth.
 - Implement the BLE protocol as outlined by the communications protocol specificiation.
 - Migrate communications library into the app architecture & implement the necessary functionality.
 - Create necessary unit tests for the communications protocol.
 
-##### Device Firmware Update (DFU)
+#### Device Firmware Update (DFU)
 PE uses a proprietary device firmware update process designed to work with our modules. This process is implemented over various medians (conroller area network (CAN), serial, etc.) and needs to be implemented over bluetooth in Android as well.
 - Implement the DFU process & design the necessary state machines.
 - Create necessary unit tests for the DFU process and perform automated testing.
