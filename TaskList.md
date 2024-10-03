@@ -23,7 +23,7 @@ The project is thoroughly designed and thought through before any code is writte
 - Create 4+1 architectural view model diagram.
 - Create UI specification document with all widgets & theming capabilities called out.
 - Create device firmware update (DFU) over-the-air (OTA) flow diagram(s).
-- Create bluetooth flow diagrams.
+- Create Bluetooth flow diagrams.
 - Create communications protocol specification contractually agreed upon by mobile apps & embedded modules.
 - Create PE Pub Sub Diagram
 
