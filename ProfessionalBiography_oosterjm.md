@@ -1,6 +1,5 @@
 # Jeremy Oosterbaan
 ##### Email: oosterjm@mail.uc.edu
-##### Cell: (937) 369-7276
 
 #### Co-Op Experience
 - **Mobile Application Developer Co-Op, Performance Electronics, Ltd. (3 Years):**
