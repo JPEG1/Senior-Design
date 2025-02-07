@@ -12,4 +12,5 @@
 9. [Video Presentation (Slides)](/CapstonePresentation_oosterjm.pdf)
 10. [Individual Assessment Essay](/Essays/IndividualCapstoneAssessment_oosterjm.pdf)
 11. [Project Budget](/ProjectBudget.md)
-12. [Appendix](/Appendix.md)
+12. [User Docs](/UserDocs.md)
+13. [Appendix](/Appendix.md)

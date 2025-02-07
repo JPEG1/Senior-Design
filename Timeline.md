@@ -10,7 +10,7 @@
 |   06   | Create Bluetooth flow diagrams.                                                                              | 07/13/24 |  00/19/24  |
 |   07   | Create communications protocol specification contractually agreed upon by mobile apps & embedded modules.    | 07/20/24 |  00/26/24  |
 |   08   | Create PE Pub Sub Diagram.                                                                                   | 07/27/24 |  08/01/24  |
-|  `09`  | `Mileston #1 (Tempalate App Architecture Design) Completion`                                                 |`08/01/24`| `08/01/24` |
+|  `09`  | `Milestone #1 (Tempalate App Architecture Design) Completion`                                                 |`08/01/24`| `08/01/24` |
 |   10   | Implement the various screens & widets outlined in the UI specification document.                            | 08/01/24 |  09/01/24  |
 |   11   | Implement a 'Demo Mode' which samples the app, including sample data from the Pub Sub.                       | 09/01/24 |  00/15/24  |
 |   12   | Implement the theming structure for the app & widgets outlined in the UI specification document.             | 09/16/24 |  10/01/24  |

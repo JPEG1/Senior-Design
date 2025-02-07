@@ -1,5 +1,5 @@
 # Team Name
-### JO (Placeholder)
+### Templated Android App Architecture
 
 # Team Members
 ### Jeremy Oosterbaan (oosterjm@mail.uc.edu)
