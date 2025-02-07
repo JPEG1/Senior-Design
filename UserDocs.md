@@ -26,8 +26,8 @@ One of largest components of this project is it's collection of modular, *drag-a
 - Many of these widgets have built-in *help buttons*. Tapping on one of these will display a snackbar with useful information on how to use the widget, what it represents, etc. These help strings are also fully customizable, as some projects may require custom help messages.
   - [Example Help Snackbar](/Resources/EditDeviceNameHelpSnackbar.png)
 - To get an idea of the UI spec, one of the widgets can be seen below. The same format & detail level exists for a couple dozen custom PE widgets, all created as part of this project:
-  - [Header Bar Widget - Requirements]()
-  - [Header Bar Widget - Illustrations]()
+  - [Edit Device Name Widget - Requirements](/Resources/EditDeviceNameWidgetRequirements.png)
+  - [Edit Device Name Widget - Illustrations](/Resources/EditDeviceNameWidgetIllustrations.png)
 
 #### Testing
 Each of the libaries contains a test suite—some far more extensive than others, merely due to time constraints—in order to verify functionality & minimize bugs. Again, for legal reasons, the codebase is not present here so I'm not able to display the full extent of these tests in detail. An image of the *PE Comm Processing Library* test suite can be seen below, to get an idea of the typical layout:
