@@ -22,7 +22,7 @@ As mentioned above, it's important to understand what role each submodule plays 
   - **Widgets Library** - Library of importable widgets, used to populate various implementations of the architecture
 
 #### Widgets Library
-One of largest components of this project is it's collection of modular, *drag-and-drop* widgets. Naturally, a comprehensive UI specification document, outlining each of these widgets & highlighting all of their configurable attributes was created in conjunction. Unfortunately, due to legal reasons, the full spec can't be added to this repository. Nonetheless, I'll discuss a few key aspects & include some brief images below:
+One of largest components of this project is it's collection of modular, *drag-and-drop* widgets. Naturally, a comprehensive UI specification document, outlining each of these widgets & highlighting all of their configurable attributes was created in conjunction. Unfortunately, due to legal reasons, the full spec can't be added to this repository. Nonetheless, a [shortened demo](/Design_Diagrams/--CAPSTONE_DEMO--%20WO240309_MobileAppDesign_R3.pdf) of the UI spec has been made publicly available. Moreover, I'll discuss a few key aspects & include some brief images below:
 - Many of these widgets have built-in *help buttons*. Tapping on one of these will display a snackbar with useful information on how to use the widget, what it represents, etc. These help strings are also fully customizable, as some projects may require custom help messages.
   - [Example Help Snackbar](/Resources/EditDeviceNameHelpSnackbar.png)
 - To get an idea of the UI spec, one of the widgets can be seen below. The same format & detail level exists for a couple dozen custom PE widgets, all created as part of this project:

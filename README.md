@@ -13,4 +13,5 @@
 10. [Individual Assessment Essay](/Essays/IndividualCapstoneAssessment_oosterjm.pdf)
 11. [Project Budget](/ProjectBudget.md)
 12. [User Docs](/UserDocs.md)
-13. [Appendix](/Appendix.md)
+13. [Demo UI Specification](/Design_Diagrams/--CAPSTONE_DEMO--%20WO240309_MobileAppDesign_R3.pdf)
+14. [Appendix](/Appendix.md)
